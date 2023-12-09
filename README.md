@@ -1,3 +1,3 @@
 # Omnifood Project
 
-Healthy meal responsive website designed using HTML & CSS
+Omnifood is a responsive website designed using HTML & CSS
